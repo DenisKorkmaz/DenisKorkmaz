@@ -1,5 +1,6 @@
 # Halloo 👋
 
+![Me]([url to image](https://ca.slack-edge.com/TTHG21AH3-U04TM057BGW-f0660ddba205-512))
 <!--
 **DenisKorkmaz/DenisKorkmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
