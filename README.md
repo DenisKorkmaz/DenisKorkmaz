@@ -7,7 +7,7 @@ My original goal was to study computer science, but I have now decided to attend
 
 I find the format of a bootcamp particularly exciting, as it provides an ideal learning environment and allows for significant skill development in a short amount of time. In contrast to traditional education, bootcamps offer the opportunity to immediately apply the learned material in a practical setting. I am confident that the bootcamp will provide me with the necessary hard skills.
 
-! [Me]([url to image](https://ca.slack-edge.com/TTHG21AH3-U04TM057BGW-f0660ddba205-512)
+<img src="https://ca.slack-edge.com/TTHG21AH3-U04TM057BGW-f0660ddba205-512" alt="Mein Bild" width="300">
 <!--
 **DenisKorkmaz/DenisKorkmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
