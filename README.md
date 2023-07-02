@@ -34,7 +34,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/denis-kor
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisKorkmaz&theme=radical)
 
-![Denis's github activity graph](https://activity-graph.herokuapp.com/graph?username=DenisKorkmaz&theme=dracula&bg_color=00000000&color=4FFAB4&line=4CAF50&point=FFFFFF&hide_border=true)
+![Denis's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DenisKorkmaz&bg_color=ffffff&color=0400ff&line=0400ff&point=03dac6&area=true&hide_border=true)
+
 
 Thank you for stopping by, I hope you have a great day!
 
