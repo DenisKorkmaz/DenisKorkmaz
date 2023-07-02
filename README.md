@@ -1,4 +1,4 @@
-# Hello, I'm Denis Korkmaz 👋
+# Hello, I'm Denis 👋
 
 I'm a software developer with a focus on frontend technologies. Here are some of the technologies I am proficient in:
 
