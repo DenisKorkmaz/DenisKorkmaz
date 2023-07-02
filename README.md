@@ -16,27 +16,16 @@ At the age of 14, I discovered my passion for programming in computer science cl
 
 Currently, I am actively looking for job opportunities where I can apply and expand my skills.
 
-## Projects
-
-Here are some of my projects I've worked on: (You can add links to your projects here)
-
-- Project 1
-- Project 2
-- Project 3
-
 ## Contact
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/denis-korkmaz-95112b273/).
 
-
 ## My GitHub Statistics
 
-![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisKorkmaz&show_icons=true&count_private=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisKorkmaz&theme=radical)
-
-![Denis's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DenisKorkmaz&bg_color=ffffff&color=0400ff&line=0400ff&point=03dac6&area=true&hide_border=true)
-
+<div style="display: flex;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DenisKorkmaz&show_icons=true&count_private=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisKorkmaz&theme=radical" />
+</div>
 
 Thank you for stopping by, I hope you have a great day!
 
