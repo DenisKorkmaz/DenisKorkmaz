@@ -26,7 +26,9 @@ Here are some of my projects I've worked on: (You can add links to your projects
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/denis-korkmaz-95112b273/).
+<a href="https://www.linkedin.com/in/denis-korkmaz-95112b273/">
+  <img align="left" alt="Denis Korkmaz's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 ## My GitHub Statistics
 
