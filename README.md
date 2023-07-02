@@ -16,6 +16,13 @@ At the age of 14, I discovered my passion for programming in computer science cl
 
 Currently, I am actively looking for job opportunities where I can apply and expand my skills.
 
+## Projects
+
+Here are some of my projects I've worked on:
+
+- [Currency Converter](https://github.com/DenisKorkmaz/Waehrungsrechner)
+- [Journal App](https://github.com/DenisKorkmaz/Journal_App)
+
 ## Contact
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/denis-korkmaz-95112b273/).
