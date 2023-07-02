@@ -1,6 +1,3 @@
-# Helloo 👋
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/> 
-  
 # Hello, I'm Denis Korkmaz 👋
 
 I'm a software developer with a focus on frontend technologies. Here are some of the technologies I am proficient in:
@@ -33,9 +30,12 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/denis-kor
 
 ## My GitHub Statistics
 
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=yourGithubUsername&show_icons=true)
+![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisKorkmaz&show_icons=true&count_private=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisKorkmaz&theme=radical)
+
+![Denis's github activity graph](https://activity-graph.herokuapp.com/graph?username=DenisKorkmaz&theme=dracula&bg_color=00000000&color=4FFAB4&line=4CAF50&point=FFFFFF&hide_border=true)
 
 Thank you for stopping by, I hope you have a great day!
 
 Denis
-
