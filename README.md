@@ -20,9 +20,10 @@ Currently, I am actively looking for job opportunities where I can apply and exp
 
 Here are some of my projects I've worked on:
 
+- [Capstone-Project-News-App](https://github.com/DenisKorkmaz/Capstone-Project-News-App) in progress ⏳
 - [Currency Converter](https://github.com/DenisKorkmaz/Waehrungsrechner)
 - [Journal App](https://github.com/DenisKorkmaz/Journal_App)
-- [Capstone-Project-News-App](https://github.com/DenisKorkmaz/Capstone-Project-News-App) in progress ⏳
+
 
 ## Contact
 
