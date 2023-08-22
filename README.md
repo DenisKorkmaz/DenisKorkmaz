@@ -12,9 +12,17 @@ I'm a software developer with a focus on frontend technologies. Here are some of
 
 ## About Me
 
-At the age of 14, I discovered my passion for programming in computer science class and gained my first experience with HTML. In 2019, I decided to catch up on my Matura and I am expected to complete it in October 2023. Through the challenging training at Neuefische, I was able to acquire knowledge in web development and want to enter professional life full-time from September onwards. In addition, starting from the summer semester of 2024, I want to study computer science alongside my job to deepen my knowledge and skills in tech.
+👋 Hey there! Welcome to my GitHub.
 
-Currently, I am actively looking for job opportunities where I can apply and expand my skills.
+🛠 Background: My journey in tech started unconventionally but embodies my strongest trait: autodidactic learning. In 2019, I took a significant step by diving deep into web development and displayed not just adaptability but also a knack for purposeful, self-directed knowledge acquisition. Training intensively at Neuefische, I acquired both technical expertise and the skills to agilely execute complex web projects.
+
+📚 Continuous Learning: While I'm passionate about creating and contributing here, I'm also gearing up for a part-time distance course in computer science to further enhance my skills. But remember, coding and contributing remain my prime focus!
+
+🤖 Tech Stack: HTML, CSS, JavaScript, React, Node.js, MongoDB.
+
+💼 Let's Collaborate: Always open to exciting projects and challenges. If you find something interesting in my repos or have collaboration ideas, feel free to reach out!
+
+
 
 ## Projects
 
