@@ -14,7 +14,7 @@ I'm a software developer with a focus on frontend technologies. Here are some of
 
 👋 Hey there! Welcome to my GitHub.
 
-🛠 Background: My journey in tech started unconventionally but embodies my strongest trait: autodidactic learning. In 2019, I took a significant step by diving deep into web development and displayed not just adaptability but also a knack for purposeful, self-directed knowledge acquisition. Training intensively at Neuefische, I acquired both technical expertise and the skills to agilely execute complex web projects.
+🛠 Background: My journey in tech started unconventionally but embodies my strongest trait: autodidactic learning. In 2023, I took a significant step by diving deep into web development and displayed not just adaptability but also a knack for purposeful, self-directed knowledge acquisition. Training intensively at Neuefische, I acquired both technical expertise and the skills to agilely execute complex web projects.
 
 📚 Continuous Learning: While I'm passionate about creating and contributing here, I'm also gearing up for a part-time distance course in computer science to further enhance my skills. But remember, coding and contributing remain my prime focus!
 
