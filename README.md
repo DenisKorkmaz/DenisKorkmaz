@@ -17,8 +17,6 @@ I'm a software developer with a focus on frontend technologies. Here are some of
 🌐 My Journey:
 My passion for web development stems from my lifelong curiosity and enthusiasm for learning new things. I decided to pursue my Abitur at Abendgymnasium Wien, a school that offers flexible and individualized learning opportunities for adults. This decision not only demonstrated my determination and adaptability, but also my ability to acquire knowledge on my own terms. I further enhanced my web development skills by completing an intensive training program at Neuefische, a school and pool for digital talent. There, I learned how to manage and execute complex web projects with agility, using the latest tools and methodologies in the industry.
 
-📚 Continuous Learning: While I'm passionate about creating and contributing here, I'm also gearing up for a part-time distance course in computer science to further enhance my skills. But remember, coding and contributing remain my prime focus!
-
 🤖 Tech Stack: HTML, CSS, JavaScript, React, Node.js, MongoDB.
 
 💼 Let's Collaborate: Always open to exciting projects and challenges. If you find something interesting in my repos or have collaboration ideas, feel free to reach out!
